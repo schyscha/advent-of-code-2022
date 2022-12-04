@@ -6,7 +6,7 @@ import aoc22.impl.task1.SimplePrioritiesCalculator;
 /**
  * Advent of Code 2022
  * <p>
- * Day 02
+ * Day 03
  * <p>
  * Execution of the solution for the first task
  *

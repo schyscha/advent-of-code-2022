@@ -5,7 +5,7 @@ import aoc22.impl.task2.AdvancedPrioritiesCalculator;
 /**
  * Advent of Code 2022
  * <p>
- * Day 02
+ * Day 03
  * <p>
  * Execution of the solution for the second task
  *
