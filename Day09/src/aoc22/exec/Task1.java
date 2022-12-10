@@ -6,7 +6,7 @@ import aoc22.impl.task1.VisitedPointsCounter;
 /**
  * Advent of Code 2022
  * <p>
- * Day 08
+ * Day 09
  * <p>
  * Execution of the solution for the first task
  *
